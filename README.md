@@ -38,12 +38,8 @@ Soy un desarrollador de software enfocado en crear soluciones eficientes y escal
 ---
 
 ## 📫 **¡Conectemos!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Mahecha-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-mahecha-0aba86202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Mahecha-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/Carlos-Mahecha-SoftwareDeveloper)
 [![Email](https://img.shields.io/badge/Email-mahechalozada%40gmail.com-D14836?style=flat&logo=gmail)](mailto:mahechalozada@gmail.com)  
-
-*www.linkedin.com/in/Carlos-Mahecha-SoftwareDeveloper*
-
-*mahechalozada@gmail.com* 
 
 ---
 
