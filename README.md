@@ -46,6 +46,10 @@ Soy un desarrollador de software enfocado en crear soluciones eficientes y escal
 ---
 
 ## 🔍 **En la Mira**  
-- 🚧 **Explorando**: Desarrollo de alto rendimiento con C++/C#.  
-- 🔥 **Meta Actual**: Dominar Quarkus para microservicios ultraligeros.  
+- 🚧 **Aprendiendo**:  
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+  [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)  
+  *Profundizando en arquitecturas cloud-native y despliegues escalables.*  
+- 🔥 **Meta Actual**: Dominar **Quarkus** para microservicios ultraligeros.  
 - ⚡ **Fun Fact**: Configuro mi terminal hasta el último detalle (¡WezTerm + Tmux FTW!).  
