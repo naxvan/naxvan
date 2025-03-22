@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy **Carlos Mahecha**  
-### 🚀 *Desarrollador Backend & Apasionado por la Optimización*  
+### 🚀 *Desarrollador Backend*  
 
 Soy un desarrollador de software enfocado en crear soluciones eficientes y escalables. Mi mantra:  
 **"Transformar problemas complejos en código limpio y mantenible"**.  
